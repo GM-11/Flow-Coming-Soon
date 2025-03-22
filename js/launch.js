@@ -1,5 +1,5 @@
 
-let coundownDate=new Date("Mar 25, 2025 00:00:00").getTime();
+let coundownDate=new Date("Mar 28, 2025 00:00:00").getTime();
 let timer=setInterval(() => {
     let todaysDate=new Date().getTime()
     let differenceInDate=coundownDate-todaysDate;
