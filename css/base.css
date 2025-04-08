@@ -33,6 +33,7 @@
  * ------------------------------------------------------------------- */
 @import url("font-awesome/css/fontawesome-all.css");
 @import url("fonts.css");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 
 /* ===================================================================
@@ -66,6 +67,9 @@ section {
 
 .flow{
   color:#C00000;
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 0.02em;
+  font-size: 10rem;
 }
 h1 {
   font-size: 2em;
@@ -954,3 +958,6 @@ textarea {
 }
 
 /*# sourceMappingURL=base.css.map */
+.quotes {
+  color: #ffffff; font-size: 3rem; font-family: 'Produkt Web Regular', Georgia, serif;
+}
